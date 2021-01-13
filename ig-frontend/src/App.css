@@ -13,3 +13,12 @@ body {
 .Post__Image {
   max-width: 250px;
 }
+
+a {
+  text-decoration: none;
+  padding: 1%;
+}
+
+a.active {
+  text-decoration: underline;
+}
